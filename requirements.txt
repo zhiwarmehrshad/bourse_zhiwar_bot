@@ -1,0 +1,3 @@
+requests
+finpy-tse
+apscheduler
